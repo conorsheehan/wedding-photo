@@ -22,3 +22,8 @@ body {
     text-align: center;
     font-size: 2em;
 }
+
+.photo,
+.auth {
+    display: none;
+}
