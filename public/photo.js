@@ -93,8 +93,7 @@ var app = (function() {
 
       return this.instagram.requestPhotos()
         .done(function() {
-          self.setPhotos(instagram.photoData)
-              .renderPhotoStream();
+          self.setPhotos(instagram.photoData);
         });
     },
 
