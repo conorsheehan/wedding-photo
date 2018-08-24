@@ -2,8 +2,8 @@ var instagram = (function() {
   return {
     initialize: function(tag) {
       var self = this;
-      this.clientId = 'CLIENTID';
-      this.redirectURI = 'http://melissagotconned.com';
+      this.clientId = 'db14318e793346bfbe64869bbba54718';
+      this.redirectURI = 'https://wedding-photo-82ecc.firebaseapp.com/';
       this.accessToken = undefined;
       this.tag = tag;
       this.photoData = [];

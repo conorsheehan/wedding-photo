@@ -227,6 +227,7 @@ header h1 {
   font-size: 1.125em;
   font-weight: 500;
   text-transform: uppercase;
+  text-decoration: none;
   color: white;
   text-align: center;
   line-height: 3.75rem;
